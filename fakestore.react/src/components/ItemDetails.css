@@ -1,0 +1,14 @@
+.item-details {
+  background: rgb(150, 182, 202);
+}
+
+.item-details section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-details img {
+  width: 40%;
+}

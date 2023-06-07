@@ -1,0 +1,20 @@
+/* @font-face {
+  font-family: Geologica;
+  src: url(/fonts/Geologica-VariableFont_CRSV\SHRP\slnt\wght.ttf);
+} */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Geologica, Georgia, "Times New Roman", Times, serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.super-wrapper {
+  background: rgb(150, 182, 202);
+  overflow: hidden;
+}

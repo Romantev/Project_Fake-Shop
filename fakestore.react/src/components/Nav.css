@@ -1,0 +1,38 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 3rem;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.logo img {
+  width: 5rem;
+}
+
+.logo p {
+  font-size: 4rem;
+  color: white;
+}
+
+.box-navigation {
+  display: flex;
+  gap: 3rem;
+}
+
+.navigation {
+  font-size: 3rem;
+  text-decoration: none;
+  color: white;
+  background: rgb(4, 131, 170);
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 1rem 2rem;
+  cursor: pointer;
+}
